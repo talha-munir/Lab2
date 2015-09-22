@@ -1,0 +1,38 @@
+
+#top {
+position: absolute;
+visibility: visible;
+z-index: 0;
+width: 50%;
+max-width: 50%
+height: 10%;
+max-height: 10%;
+top: 100px;
+left: 300px
+}
+
+div.bottom {
+position:absolute;
+display: none;
+z-index:0;
+width:50%;
+height:50%;
+top:300px;
+left:400px;
+}
+
+#first:target {
+	display:block;
+}
+#second:target {
+	display:block;
+}
+#third:target {
+	display:block;
+}
+#fourth:target {
+	display:block;
+}
+#fifth:target {
+	display:block;
+}

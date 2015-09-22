@@ -1,0 +1,8 @@
+M Talha Munir
+BESE-4A
+Web Engineering LAB2
+
+:target -> This was used to link small image with the larger one 
+
+divs of same size were used to create the impression of single container 
+
